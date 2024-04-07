@@ -1,0 +1,6 @@
+build-server-Main-Debug
+build-client-Main-Debug
+server/server.pro
+server/server.pro.user
+client/client.pro
+client/client.pro.user
